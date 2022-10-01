@@ -1,0 +1,6 @@
+                                           #### FUNCIONAMENTO ### 
+
+- Você possui duas chances para não ser notificado seriamente;
+- Os dois avisos antes do aviso final estão disponíveis para que você possa se familiarizar com os sinais;
+- Se após o tempo limite de 20min você não for notificado mais que duas vezes, as notificações voltam a 0;
+- Após ser notificado pelo terceiro aviso, as notificações voltam a 0.
